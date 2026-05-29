@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "SKILLAB E2E Test Automation Suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:setup": "npx playwright test --project=setup",
+    "test:auth": "npx playwright test end-to-end-tests/auth/",
+    "test:api": "npx playwright test end-to-end-tests/api/",
+    "test:rbac": "npx playwright test end-to-end-tests/rbac/",
+    "test:headed": "npx playwright test --headed",
+    "test:report": "npx playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://localhost:3000",
+      "localStorage": [
+        {
+          "name": "refreshTokenSkillab",
+          "value": "{\"accessToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJpbmR1c3RyeUBpbmR1c3RyeS5jb20iLCJyb2xlcyI6WyJTSU1QTEUiXSwiaW5zdGFsbGF0aW9uIjoiaW5kdXN0cnkiLCJvcmdhbml6YXRpb24iOiIiLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODEvbG9naW4iLCJuYW1lIjoiSW5kdXN0cnkiLCJpZCI6ImVmN2JkZWE5LWUzNTktNDEzMS05YmI5LTI0OTMzODY3ZmE4YyIsImV4cCI6MTc3OTg2Njk0MH0.1ufBPDrMxaACWiA9ZVywDhcCqVZrroqbLC9tmyvy4m4\",\"refreshToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJpbmR1c3RyeUBpbmR1c3RyeS5jb20iLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODEvbG9naW4iLCJleHAiOjE3Nzk4NzA1NDB9.8blCbyynPLdVQyhnq7-RB6huvKt8bObKg8eSKAr40l0\"}"
+        },
+        {
+          "name": "accessTokenSkillab",
+          "value": "{\"accessToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJpbmR1c3RyeUBpbmR1c3RyeS5jb20iLCJyb2xlcyI6WyJTSU1QTEUiXSwiaW5zdGFsbGF0aW9uIjoiaW5kdXN0cnkiLCJvcmdhbml6YXRpb24iOiIiLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODEvbG9naW4iLCJuYW1lIjoiSW5kdXN0cnkiLCJpZCI6ImVmN2JkZWE5LWUzNTktNDEzMS05YmI5LTI0OTMzODY3ZmE4YyIsImV4cCI6MTc3OTg2Njk0MH0.1ufBPDrMxaACWiA9ZVywDhcCqVZrroqbLC9tmyvy4m4\",\"refreshToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJpbmR1c3RyeUBpbmR1c3RyeS5jb20iLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODEvbG9naW4iLCJleHAiOjE3Nzk4NzA1NDB9.8blCbyynPLdVQyhnq7-RB6huvKt8bObKg8eSKAr40l0\"}"
+        },
+        {
+          "name": "accessTokenSkillabTracker",
+          "value": "{\"accessToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJpbmR1c3RyeUBpbmR1c3RyeS5jb20iLCJyb2xlcyI6WyJTSU1QTEUiXSwiaW5zdGFsbGF0aW9uIjoiaW5kdXN0cnkiLCJvcmdhbml6YXRpb24iOiIiLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODEvbG9naW4iLCJuYW1lIjoiSW5kdXN0cnkiLCJpZCI6ImVmN2JkZWE5LWUzNTktNDEzMS05YmI5LTI0OTMzODY3ZmE4YyIsImV4cCI6MTc3OTg2Njk0MH0.1ufBPDrMxaACWiA9ZVywDhcCqVZrroqbLC9tmyvy4m4\",\"refreshToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJpbmR1c3RyeUBpbmR1c3RyeS5jb20iLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODEvbG9naW4iLCJleHAiOjE3Nzk4NzA1NDB9.8blCbyynPLdVQyhnq7-RB6huvKt8bObKg8eSKAr40l0\"}"
+        }
+      ]
+    }
+  ]
+}

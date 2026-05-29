@@ -1,0 +1,22 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://localhost:3000",
+      "localStorage": [
+        {
+          "name": "refreshTokenSkillab",
+          "value": "{\"accessToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhYWFhQGdtYWlsLmNvbSIsInJvbGVzIjpbIlNJTVBMRSIsIlBSSVZJTEVHRUQiXSwiaW5zdGFsbGF0aW9uIjoiY2l0aXplbixpbmR1c3RyeSxlZHVjYXRpb24scG9saWN5Iiwib3JnYW5pemF0aW9uIjoiT3JnYW5pemF0aW9uIiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgxL2xvZ2luIiwibmFtZSI6IkFkbWluIiwiaWQiOiIzN2Q2YmU2ZC02MDQzLTQwNDMtYmJkOS00OGVmMWE4NGM1ZWMiLCJleHAiOjE3Nzk4NjY5Mjd9.jOeaBlFvnGza_T7mXtOTDOu9pE7QzSN-TUI7jxsNWRk\",\"refreshToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhYWFhQGdtYWlsLmNvbSIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MS9sb2dpbiIsImV4cCI6MTc3OTg3MDUyN30.ltyP3Uo01iDK7g_QDaMQr_OPVtEsytQWlZ8aGhZFyb0\"}"
+        },
+        {
+          "name": "accessTokenSkillab",
+          "value": "{\"accessToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhYWFhQGdtYWlsLmNvbSIsInJvbGVzIjpbIlNJTVBMRSIsIlBSSVZJTEVHRUQiXSwiaW5zdGFsbGF0aW9uIjoiY2l0aXplbixpbmR1c3RyeSxlZHVjYXRpb24scG9saWN5Iiwib3JnYW5pemF0aW9uIjoiT3JnYW5pemF0aW9uIiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgxL2xvZ2luIiwibmFtZSI6IkFkbWluIiwiaWQiOiIzN2Q2YmU2ZC02MDQzLTQwNDMtYmJkOS00OGVmMWE4NGM1ZWMiLCJleHAiOjE3Nzk4NjY5Mjd9.jOeaBlFvnGza_T7mXtOTDOu9pE7QzSN-TUI7jxsNWRk\",\"refreshToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhYWFhQGdtYWlsLmNvbSIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MS9sb2dpbiIsImV4cCI6MTc3OTg3MDUyN30.ltyP3Uo01iDK7g_QDaMQr_OPVtEsytQWlZ8aGhZFyb0\"}"
+        },
+        {
+          "name": "accessTokenSkillabTracker",
+          "value": "{\"accessToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhYWFhQGdtYWlsLmNvbSIsInJvbGVzIjpbIlNJTVBMRSIsIlBSSVZJTEVHRUQiXSwiaW5zdGFsbGF0aW9uIjoiY2l0aXplbixpbmR1c3RyeSxlZHVjYXRpb24scG9saWN5Iiwib3JnYW5pemF0aW9uIjoiT3JnYW5pemF0aW9uIiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgxL2xvZ2luIiwibmFtZSI6IkFkbWluIiwiaWQiOiIzN2Q2YmU2ZC02MDQzLTQwNDMtYmJkOS00OGVmMWE4NGM1ZWMiLCJleHAiOjE3Nzk4NjY5Mjd9.jOeaBlFvnGza_T7mXtOTDOu9pE7QzSN-TUI7jxsNWRk\",\"refreshToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhYWFhQGdtYWlsLmNvbSIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MS9sb2dpbiIsImV4cCI6MTc3OTg3MDUyN30.ltyP3Uo01iDK7g_QDaMQr_OPVtEsytQWlZ8aGhZFyb0\"}"
+        }
+      ]
+    }
+  ]
+}

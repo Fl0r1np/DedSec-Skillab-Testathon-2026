@@ -1,0 +1,57 @@
+PS D:\Lucrari_univer\Anul_3\z.lucru_individual\skillab_testathon\testing\k6_testing> k6 run login_load_test.js
+
+         /\      Grafana   /‾‾/
+    /\  /  \     |\  __   /  /
+   /  \/    \    | |/ /  /   ‾‾\
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/
+
+
+     execution: local
+        script: login_load_test.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 15 max VUs, 1m20s max duration (incl. graceful stop):
+              * default: Up to 15 looping VUs for 50s over 3 stages (gracefulRampDown: 30s, gracefulStop: 30s)
+
+
+
+  █ THRESHOLDS
+
+    http_req_duration
+    ✓ 'p(95)<500' p(95)=73.2ms
+
+    http_req_failed
+    ✓ 'rate<0.01' rate=0.00%
+
+
+  █ TOTAL RESULTS
+
+    checks_total.......: 574     11.43731/s
+    checks_succeeded...: 100.00% 574 out of 574
+    checks_failed......: 0.00%   0 out of 574
+
+    ✓ status is 200
+
+    HTTP
+    http_req_duration..............: avg=66.42ms min=55.19ms med=66.3ms max=105.71ms p(90)=71.91ms p(95)=73.2ms
+      { expected_response:true }...: avg=66.42ms min=55.19ms med=66.3ms max=105.71ms p(90)=71.91ms p(95)=73.2ms
+    http_req_failed................: 0.00%  0 out of 574
+    http_reqs......................: 574    11.43731/s
+
+    EXECUTION
+    iteration_duration.............: avg=1.06s   min=1.05s   med=1.06s  max=1.11s    p(90)=1.07s   p(95)=1.07s
+    iterations.....................: 574    11.43731/s
+    vus............................: 1      min=1        max=15
+    vus_max........................: 15     min=15       max=15
+
+    NETWORK
+    data_received..................: 551 kB 11 kB/s
+    data_sent......................: 109 kB 2.2 kB/s
+
+
+
+
+running (0m50.2s), 00/15 VUs, 574 complete and 0 interrupted iterations
+default ✓ [======================================] 00/15 VUs  50s
+PS D:\Lucrari_univer\Anul_3\z.lucru_individual\skillab_testathon\testing\k6_testing>

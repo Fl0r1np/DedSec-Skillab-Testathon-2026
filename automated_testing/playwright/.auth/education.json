@@ -1,0 +1,22 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://localhost:3000",
+      "localStorage": [
+        {
+          "name": "refreshTokenSkillab",
+          "value": "{\"accessToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlZHVjYXRpb25AZWR1Y2F0aW9uLmNvbSIsInJvbGVzIjpbIlNJTVBMRSJdLCJpbnN0YWxsYXRpb24iOiJlZHVjYXRpb24iLCJvcmdhbml6YXRpb24iOiIiLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODEvbG9naW4iLCJuYW1lIjoiRXVjYXRpb24iLCJpZCI6IjdhMDE3YTIyLTMyZjAtNDA1NC04YTRmLTJkOGVlNTFhYWMzMSIsImV4cCI6MTc3OTg2NjkzNn0.gE3G--9aTmCMUSkpyXvnrHtCgMq1dybNB2DPPaSUDEk\",\"refreshToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlZHVjYXRpb25AZWR1Y2F0aW9uLmNvbSIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MS9sb2dpbiIsImV4cCI6MTc3OTg3MDUzNn0.8Xm7oZSnfJai5z68cGmZ810uDPkq6Lz67o-5tzbyLhc\"}"
+        },
+        {
+          "name": "accessTokenSkillab",
+          "value": "{\"accessToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlZHVjYXRpb25AZWR1Y2F0aW9uLmNvbSIsInJvbGVzIjpbIlNJTVBMRSJdLCJpbnN0YWxsYXRpb24iOiJlZHVjYXRpb24iLCJvcmdhbml6YXRpb24iOiIiLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODEvbG9naW4iLCJuYW1lIjoiRXVjYXRpb24iLCJpZCI6IjdhMDE3YTIyLTMyZjAtNDA1NC04YTRmLTJkOGVlNTFhYWMzMSIsImV4cCI6MTc3OTg2NjkzNn0.gE3G--9aTmCMUSkpyXvnrHtCgMq1dybNB2DPPaSUDEk\",\"refreshToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlZHVjYXRpb25AZWR1Y2F0aW9uLmNvbSIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MS9sb2dpbiIsImV4cCI6MTc3OTg3MDUzNn0.8Xm7oZSnfJai5z68cGmZ810uDPkq6Lz67o-5tzbyLhc\"}"
+        },
+        {
+          "name": "accessTokenSkillabTracker",
+          "value": "{\"accessToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlZHVjYXRpb25AZWR1Y2F0aW9uLmNvbSIsInJvbGVzIjpbIlNJTVBMRSJdLCJpbnN0YWxsYXRpb24iOiJlZHVjYXRpb24iLCJvcmdhbml6YXRpb24iOiIiLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODEvbG9naW4iLCJuYW1lIjoiRXVjYXRpb24iLCJpZCI6IjdhMDE3YTIyLTMyZjAtNDA1NC04YTRmLTJkOGVlNTFhYWMzMSIsImV4cCI6MTc3OTg2NjkzNn0.gE3G--9aTmCMUSkpyXvnrHtCgMq1dybNB2DPPaSUDEk\",\"refreshToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJlZHVjYXRpb25AZWR1Y2F0aW9uLmNvbSIsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6ODA4MS9sb2dpbiIsImV4cCI6MTc3OTg3MDUzNn0.8Xm7oZSnfJai5z68cGmZ810uDPkq6Lz67o-5tzbyLhc\"}"
+        }
+      ]
+    }
+  ]
+}
